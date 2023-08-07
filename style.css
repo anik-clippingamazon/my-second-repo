@@ -1,0 +1,21 @@
+.blog{
+    background-color: skyblue;
+    border: 50px solid yellow;
+    border-radius: 20px;
+    margin: 50px auto;
+    width: 50%;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+.author-name{
+    color: indianred;
+}
+.blog-title{
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+}
+div p{
+    text-align: justify;}
